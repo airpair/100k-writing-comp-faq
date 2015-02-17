@@ -25,7 +25,8 @@ Posts that don't receive much attention tend to be:
 - Containing nothing new
 
 Here are the [top 10 posts from 2014](https://airpair.com/top-posts-on-airpair-in-2014) for some examples of successful content. 
-*** Examples of different formats ***
+
+#### Examples of different post formats 
 
 - Comparision pieces like [AngularJS vs. Backbone.js vs. Ember.js](https://airpair.com/js/javascript-framework-comparison) by Uri Shaked 
 - Tutorials like [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://airpair.com/angularjs/posts/angularjs-tutorial) by Todd Motto 
