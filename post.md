@@ -77,4 +77,4 @@ By participating in this competition, you, the Author, certify that you created 
 
 ## More questions? 
 
-Email us at [team@airpair.com](team@airpair.com)!
+Email us at [team@airpair.com](mailto:team@airpair.com)!
