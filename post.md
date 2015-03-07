@@ -2,7 +2,7 @@
 
 #### What should I write about?
 
-It's important that you write about something you are passionate about, and feel that others should learn more about. However you need to keep in mind that post performance is evaluated based on the quality of your post, along with how many people share it on social media - including twitter, linkedin, google plus and facebook.
+It's important that you write about something you are passionate about, and feel that others should learn more about. However you need to keep in mind that post performance is evaluated based on the quality of your post, along with how many people share it on social media - including Twitter, LinkedIn, Google+ and Facebook.
 
 In our experience, posts that do well are:
 
@@ -49,7 +49,7 @@ We need your post to meet minimum standards in quality. This is evaluated by hav
 
 #### Help with community peer review
 
-We also ask that you be kind to the communuity, and fork and make improvements to at least 2 other posts. 
+We also ask that you be kind to the community, and fork and make improvements to at least 2 other posts. 
 
 ## Publishing Process
 
